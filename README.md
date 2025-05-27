@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @VYSHNAVIMULLE  
-- 👀 I’m interested in Web Development, UI Design, and Creative Frontend Projects  
-- 🌱 I’m currently learning JavaScript, React.js, and exploring APIs  
-- 💞️ I’m looking to collaborate on frontend projects and portfolio-based web apps  
+- 👀 I’m interested in web development, creative design, and data analysis  
+- 🌱 I’m currently learning new tools and improving my skills in both frontend development and Python programming  
+- 💞️ I’m looking to collaborate on beginner-friendly projects and creative ideas  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vyshnavi-mulle)  
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love blending creativity with code — from designing interfaces to building user-friendly experiences!
+- ⚡ Fun fact: I enjoy blending creativity with technology — whether it’s building a UI or exploring data stories!
 
 <!---
 VYSHNAVIMULLE/VYSHNAVIMULLE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
